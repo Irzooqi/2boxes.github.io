@@ -1,0 +1,32 @@
+#square {
+  height:200px;
+width:200px;
+  background-color:red;
+  border-radius:100px;
+   z-index:1;
+}
+#square2 {
+  height:200px;
+width:200px;
+  background-color:blue;
+}
+.eye{
+  background-color:black;
+  border-radius:100px;
+  height:100px;
+  width:100px;
+  z-index:2;
+}
+h3 {
+  background-color:black;
+  font-size:2em;
+  position:fixed;
+  left: 300px;
+  top:2500px;
+}
+
+
+
+
+
+
